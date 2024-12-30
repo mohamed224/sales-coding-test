@@ -1,7 +1,7 @@
 package fr.maestria.service;
 
 
-import fr.maestria.entities.Item;
+import fr.maestria.domains.Item;
 import org.springframework.stereotype.Service;
 
 @Service

@@ -1,8 +1,8 @@
-package fr.maestria.restcontroller;
+package fr.maestria.controller;
 
 
-import fr.maestria.entities.Item;
-import fr.maestria.entities.Receipt;
+import fr.maestria.domains.Item;
+import fr.maestria.domains.Receipt;
 import fr.maestria.service.ReceiptService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestBody;

@@ -1,4 +1,4 @@
-package fr.maestria.entities;
+package fr.maestria.domains;
 
 public class ReceiptItem {
 

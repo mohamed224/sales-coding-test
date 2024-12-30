@@ -1,7 +1,7 @@
 package fr.maestria;
 
-import fr.maestria.entities.Item;
-import fr.maestria.entities.Receipt;
+import fr.maestria.domains.Item;
+import fr.maestria.domains.Receipt;
 import fr.maestria.service.ReceiptService;
 import fr.maestria.service.TaxCalculatorService;
 import org.junit.jupiter.api.Test;
